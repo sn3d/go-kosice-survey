@@ -1,0 +1,1 @@
+# go-kosice-survey
