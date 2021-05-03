@@ -1,0 +1,111 @@
+Timestamp,Koľko rokov programujete profesionálne (akýkoľvek jazyk),Ku ktorej z uvedených rol mate najbližšie?,"Aký je primárny jazyk, ktorý používate najviac?",Aký ďalší jazyk sa v blízkej dobe chcete alebo chceli by ste sa naučiť?,Aký je váš vzťah ku Go,"Ako dlho použivate Go? (v práci, hobby projekt, učenie sa)",V Go programujete,"Odporučili by ste Go priateľom, kolegom?",Cítite sa v Go produktívny?,Bonusovka: Patria podľa vás generika do Go?
+4/21/2021 14:24:39,10 rokov a viac,DevOps/Cloud,Go,Rust,používam Go v práci na hlavnom projekte,2 - 5 rokov,"CLI nástroje, WebService aplikácie",5,5,
+4/21/2021 14:36:32,3 - 6 rokov,Vývoj mobilných aplikácii,Java/Kotlin/Scala,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,1,1,Ano :-)
+4/21/2021 14:38:57,3 - 6 rokov,Quality Assurance,Java/Kotlin/Scala,Žiaden,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,2,,
+4/21/2021 14:40:49,3 - 6 rokov,Vývoj mobilných aplikácii,Java/Kotlin/Scala,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,1,1,Ano :-)
+4/21/2021 14:42:03,6 - 10 rokov,Testing,Java/Kotlin/Scala,Žiaden,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/21/2021 15:38:20,Menej ako 3 roky,Testing,Java/Kotlin/Scala,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/21/2021 17:59:06,3 - 6 rokov,Fullstack programátor,Java/Kotlin/Scala,Go,Go sa učím alebo sa chcem naučiť,Menej ako 3 mesiace,WebService aplikácie,4,2,Ano :-)
+4/21/2021 18:59:14,10 rokov a viac,DevOps/Cloud,Java/Kotlin/Scala,Python,Go sa učím alebo sa chcem naučiť,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/22/2021 2:43:02,6 - 10 rokov,Návrh IT systémov a architektúra,Java/Kotlin/Scala,Rust,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,1,Ano :-)
+4/22/2021 8:07:17,10 rokov a viac,Vývoj mobilných aplikácii,Swift/Objective C a C/C++,Rust,Go ma nezaujíma,Menej ako 3 mesiace,V Go neprogramujem,3,1,Ano :-)
+4/22/2021 9:14:09,Menej ako 3 roky,Fullstack programátor,Dart,Go,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,3,
+4/22/2021 9:29:15,3 - 6 rokov,Testing,Java/Kotlin/Scala,Dart,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,,
+4/22/2021 9:30:47,10 rokov a viac,Návrh IT systémov a architektúra,JavaScript/TypeScript,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,4,3,Nie :-)
+4/22/2021 9:35:52,3 - 6 rokov,Vývoj backend systémov,Java/Kotlin/Scala,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,,Ano :-)
+4/22/2021 9:52:31,3 - 6 rokov,Vývoj backend systémov,Python,Go,Go sa učím alebo sa chcem naučiť,Ešte som v Go nerobil,V Go neprogramujem,4,3,Ano :-)
+4/22/2021 10:18:39,Menej ako 3 roky,Vývoj mobilných aplikácii,Java/Kotlin/Scala,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,,
+4/22/2021 10:37:51,10 rokov a viac,Vývoj backend systémov,Java/Kotlin/Scala,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,,Ano :-)
+4/22/2021 10:48:07,10 rokov a viac,DevOps/Cloud,C/C++,Kotlin,používam Go v práci na malé vedľajšie projekty,1 - 2 roky,Hry,3,4,Nie :-)
+4/22/2021 11:46:56,10 rokov a viac,Vývoj mobilných aplikácii,Swift/Objective C,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,1,,
+4/22/2021 11:47:22,10 rokov a viac,Projekt/Produkt management,Java/Kotlin/Scala,C#,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,1,,
+4/22/2021 12:06:30,10 rokov a viac,,Java/Kotlin/Scala,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,,
+4/22/2021 12:45:19,6 - 10 rokov,Vývoj backend systémov,Go,Rust,používam Go v práci na hlavnom projekte,5 rokov a viac,"CLI nástroje, WebService aplikácie, Knižnice a frameworky",4,4,Nie :-)
+4/22/2021 13:43:40,10 rokov a viac,Vývoj backend systémov,PHP,Rust,používam Go v práci na hlavnom projekte,2 - 5 rokov,"CLI nástroje, WebService aplikácie",5,5,Ano :-)
+4/22/2021 13:56:27,6 - 10 rokov,Vývoj backend systémov,Java/Kotlin/Scala,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,3,,
+4/22/2021 14:01:00,3 - 6 rokov,Vývoj backend systémov,Python,Go,Go sa učím alebo sa chcem naučiť,Ešte som v Go nerobil,V Go neprogramujem,4,3,Ano :-)
+4/22/2021 14:28:29,3 - 6 rokov,Vývoj backend systémov,Java/Kotlin/Scala,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Menej ako 3 mesiace,WebService aplikácie,3,4,Ano :-)
+4/22/2021 14:29:46,Menej ako 3 roky,Vývoj backend systémov,C#,Kotlin,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,1,Nie :-)
+4/22/2021 14:33:57,Som študent,Data engineering,Python,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,3,3,Ano :-)
+4/22/2021 14:33:58,3 - 6 rokov,Vývoj backend systémov,.NET,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/22/2021 14:35:00,Menej ako 3 roky,Vývoj backend systémov,Java/Kotlin/Scala,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,Ano :-)
+4/22/2021 14:35:40,10 rokov a viac,Vývoj backend systémov,Java/Kotlin/Scala,Go,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,3,Nie :-)
+4/22/2021 14:36:17,Som študent,Fullstack programátor,Java/Kotlin/Scala,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,1,1,Ano :-)
+4/22/2021 14:36:33,Menej ako 3 roky,Vývoj mobilných aplikácii,Java/Kotlin/Scala,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,4,,Ano :-)
+4/22/2021 14:39:05,3 - 6 rokov,Data engineering,Python,Kotlin,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,Nie :-)
+4/22/2021 14:41:19,..3+ ale som ešte aj študent,Fullstack programátor,JavaScript/TypeScript,Go,Go sa učím alebo sa chcem naučiť,Menej ako 3 mesiace,WebService aplikácie,5,3,Nie :-)
+4/22/2021 14:43:03,3 - 6 rokov,Frontend vývoj,JavaScript/TypeScript,C#,,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 14:46:21,Som študent,Testing,JavaScript/TypeScript,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 14:47:08,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,Go,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/22/2021 14:50:53,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,Ano :-)
+4/22/2021 14:52:41,3 - 6 rokov,Fullstack programátor,Java/Kotlin/Scala,Python,Go ma nezaujíma,Ešte som v Go nerobil,,,,
+4/22/2021 14:54:12,Som študent,,JavaScript/TypeScript,C±±,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,3,Nie :-)
+4/22/2021 15:01:04,3 - 6 rokov,Vývoj backend systémov,Java/Kotlin/Scala,TypeScript,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,
+4/22/2021 15:02:15,Som študent,Vývoj mobilných aplikácii,Dart,Go,Go sa učím alebo sa chcem naučiť,Ešte som v Go nerobil,V Go neprogramujem,4,4,Ano :-)
+4/22/2021 15:08:37,Som študent + 3 roky praxe,Testing,Python,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,,,Ano :-)
+4/22/2021 15:13:06,Menej ako 3 roky,Fullstack programátor,C#,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 15:14:00,Som študent,Fullstack programátor,JavaScript/TypeScript,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 15:22:27,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,3,Nie :-)
+4/22/2021 15:35:49,3 - 6 rokov,Vývoj backend systémov,Java/Kotlin/Scala,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,,,Ano :-)
+4/22/2021 15:58:06,Som študent,Frontend vývoj,JavaScript/TypeScript,TypeScript,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 16:06:47,Som študent,Vývoj backend systémov,C#,Žiaden,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,2,1,Ano :-)
+4/22/2021 16:13:34,10 rokov a viac,Návrh IT systémov a architektúra,JavaScript/TypeScript,Rust,Go používam na svoje hobby projekty,pouzivam go este od cias pred verziou 1.0 ked boli weekly releasy ~2011,"CLI nástroje, WebService aplikácie, Knižnice a frameworky",5,5,Ano :-)
+4/22/2021 16:15:05,Menej ako 3 roky,QA/Testing,Python,TypeScript,Go ma nezaujíma,Ešte som v Go nerobil,,,,Ano :-)
+4/22/2021 16:22:21,Menej ako 3 roky,QA/Testing,Java/Kotlin/Scala,C#,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,,,
+4/22/2021 16:23:01,6 - 10 rokov,Fullstack programátor,Java/Kotlin/Scala,Žiaden,V Go neprogramujem ale vyzera zaujímavo,Menej ako 3 mesiace,V Go neprogramujem,2,1,Nie :-)
+4/22/2021 16:40:59,10 rokov a viac,Vývoj backend systémov,C/C++,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 16:43:01,Menej ako 3 roky,Vývoj backend systémov,Java/Kotlin/Scala,C#,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 16:52:34,10 rokov a viac,DevOps/Cloud,Java/Kotlin/Scala,Go,Go sa učím alebo sa chcem naučiť,Menej ako 3 mesiace,"CLI nástroje, Automatizáciu",5,3,Ano :-)
+4/22/2021 17:11:29,Som študent,Fullstack programátor,PHP,Go,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 17:16:36,6 - 10 rokov,Vývoj backend systémov,C/C++,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/22/2021 17:19:23,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,TypeScript,Go používam na svoje hobby projekty,3 mesiace - 1 rok,WebService aplikácie,4,4,Ano :-)
+4/22/2021 18:15:45,3 - 6 rokov,Fullstack programátor,C#,Python,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 18:22:42,Som študent,Data engineering,Python,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 18:33:20,Menej ako 3 roky,Vývoj backend systémov,C#,TypeScript,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/22/2021 18:40:21,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,3,
+4/22/2021 18:45:44,10 rokov a viac,Fullstack programátor,JavaScript/TypeScript,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,1,,
+4/22/2021 18:50:36,Som študent,Frontend vývoj,Java/Kotlin/Scala,Python,Go ma nezaujíma,Menej ako 3 mesiace,V Go neprogramujem,3,2,Nie :-)
+4/22/2021 19:39:16,3 - 6 rokov,Vývoj backend systémov,C#,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/22/2021 19:41:07,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,4,2,Ano :-)
+4/22/2021 20:51:11,3 - 6 rokov,Fullstack programátor,Java/Kotlin/Scala,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,1,5,Nie :-)
+4/22/2021 21:33:15,10 rokov a viac,Vývoj backend systémov,Go,Žiaden,používam Go v práci na hlavnom projekte,2 - 5 rokov,WebService aplikácie,5,4,Ano :-)
+4/22/2021 21:50:00,6 - 10 rokov,Vývoj backend systémov,C#,Rust,používam Go v práci na malé vedľajšie projekty,1 - 2 roky,CLI nástroje,3,4,
+4/22/2021 21:52:38,3 - 6 rokov,Fullstack programátor,JavaScript/TypeScript,TypeScript,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,
+4/23/2021 0:48:22,Som študent,Fullstack programátor,Python,Rust,V Go neprogramujem ale vyzera zaujímavo,,V Go neprogramujem,,,
+4/23/2021 1:27:13,Menej ako 3 roky,Vývoj backend systémov,Java/Kotlin/Scala,Kotlin,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/23/2021 7:29:40,Menej ako 3 roky,Frontend vývoj,JavaScript/TypeScript,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,4,,
+4/23/2021 9:27:46,Som študent,Frontend vývoj,Java/Kotlin/Scala,C#,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,
+4/23/2021 9:42:40,6 - 10 rokov,Vývoj backend systémov,C#,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,
+4/23/2021 10:36:41,Som študent,Data engineering,Java/Kotlin/Scala,Python,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/23/2021 10:48:32,10 rokov a viac,"z kazdeho trochu podla toho, co treba (som ucitel/instruktor/programator)",Python,"novy jazyk sice nie, ale skor technologiu",V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,1,
+4/23/2021 11:53:06,3 - 6 rokov,Fullstack programátor,Java/Kotlin/Scala,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,
+4/23/2021 12:10:13,Som študent,Návrh IT systémov a architektúra,Python,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/23/2021 13:22:09,6 - 10 rokov,Fullstack programátor,Java/Kotlin/Scala,Go,Go sa učím alebo sa chcem naučiť,Ešte som v Go nerobil,V Go neprogramujem,5,3,Nie :-)
+4/23/2021 13:44:08,3 - 6 rokov,Vývoj backend systémov,Java/Kotlin/Scala,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,,Ano :-)
+4/23/2021 14:37:14,3 - 6 rokov,Vývoj mobilných aplikácii,Java/Kotlin/Scala,Python,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/23/2021 14:37:16,3 - 6 rokov,Vývoj mobilných aplikácii,Swift/Objective C,COBOL,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,1,Ano :-)
+4/23/2021 14:52:25,20,Vývoj mobilných aplikácii,Swift/Objective C,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,,3,1,Nie :-)
+4/23/2021 14:59:08,10 rokov a viac,Fullstack programátor,JavaScript/TypeScript,Go,Go sa učím alebo sa chcem naučiť,Menej ako 3 mesiace,CLI nástroje,4,2,
+4/23/2021 15:43:29,10 rokov a viac,Vývoj backend systémov,Java/Kotlin/Scala,Scala 3,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,1,,Ano :-)
+4/23/2021 15:49:46,Menej ako 3 roky,QA/Testing,Java/Kotlin/Scala,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,,,
+4/23/2021 15:52:27,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,Python,Go ma nezaujíma,Ešte som v Go nerobil,,,,
+4/23/2021 16:31:28,10 rokov a viac,Fullstack programátor,JavaScript/TypeScript,Žiaden,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/23/2021 17:49:01,6 - 10 rokov,Vývoj backend systémov,Java/Kotlin/Scala,Python,V Go neprogramujem ale vyzera zaujímavo,Menej ako 3 mesiace,V Go neprogramujem,5,2,Nie :-)
+4/23/2021 19:32:16,Menej ako 3 roky,DevOps/Cloud,Python,Python,Go ma nezaujíma,Menej ako 3 mesiace,V Go neprogramujem,2,1,Nie :-)
+4/23/2021 22:20:47,6 - 10 rokov,Fullstack programátor,C#,Go,Go sa učím alebo sa chcem naučiť,Menej ako 3 mesiace,,5,,
+4/25/2021 12:48:48,10 rokov a viac,Návrh IT systémov a architektúra,Java/Kotlin/Scala,Žiaden,používam Go v práci na hlavnom projekte,3 mesiace - 1 rok,"Knižnice a frameworky, Automatizáciu",4,4,Ano :-)
+4/25/2021 12:59:09,10 rokov a viac,Middleware,Java/Kotlin/Scala,Rust,používam Go v práci na malé vedľajšie projekty,3 mesiace - 1 rok,"CLI nástroje, Automatizáciu",4,2,Ano :-)
+4/25/2021 15:42:06,Menej ako 3 roky,Vývoj backend systémov,RPG,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,3,3,Ano :-)
+4/25/2021 16:04:16,6 - 10 rokov,Fullstack programátor,JavaScript/TypeScript,Python,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,1,1,Ano :-)
+4/25/2021 20:25:29,Som študent,Vývoj backend systémov,Java/Kotlin/Scala,Go,Go sa učím alebo sa chcem naučiť,Menej ako 3 mesiace,V Go neprogramujem,4,2,Nie :-)
+4/26/2021 6:20:15,10 rokov a viac,Návrh IT systémov a architektúra,Java/Kotlin/Scala,Rust,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,
+4/26/2021 7:28:28,3 - 6 rokov,Data engineering,Python,Go,Go sa učím alebo sa chcem naučiť,Ešte som v Go nerobil,V Go neprogramujem,4,3,Ano :-)
+4/26/2021 7:48:15,10 rokov a viac,Fullstack programátor,C#,Žiaden,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,3,1,Ano :-)
+4/26/2021 9:24:17,10 rokov a viac,Vývoj backend systémov,Java/Kotlin/Scala,Kotlin,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,V Go neprogramujem,,,Ano :-)
+4/26/2021 10:04:29,3 - 6 rokov,Fullstack programátor,PHP,TypeScript,V Go neprogramujem ale vyzera zaujímavo,Menej ako 3 mesiace,WebService aplikácie,3,2,Ano :-)
+4/26/2021 11:01:24,10 rokov a viac,3D,C/C++,Kotlin,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,2,,
+4/26/2021 21:51:27,10 rokov a viac,Návrh IT systémov a architektúra,Java/Kotlin/Scala,Rust,Go ma nezaujíma,Ešte som v Go nerobil,V Go neprogramujem,1,1,Ano :-)
+4/27/2021 10:07:03,Som študent,Frontend vývoj,JavaScript/TypeScript,Python,Go sa učím alebo sa chcem naučiť,Menej ako 3 mesiace,V Go neprogramujem,1,1,Nie :-)
+4/27/2021 10:11:47,6 - 10 rokov,Frontend vývoj,JavaScript/TypeScript,Python,V Go neprogramujem ale vyzera zaujímavo,Ešte som v Go nerobil,,3,,
+4/28/2021 10:13:32,3 - 6 rokov,DevOps/Cloud,ansible,terraform,používam Go v práci na malé vedľajšie projekty,Menej ako 3 mesiace,CLI nástroje,3,2,Nie :-)
+4/28/2021 12:38:03,3 - 6 rokov,Vývoj backend systémov,Java/Kotlin/Scala,Go,Go sa učím alebo sa chcem naučiť,Ešte som v Go nerobil,V Go neprogramujem,,,Ano :-)
